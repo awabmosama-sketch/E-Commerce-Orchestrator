@@ -1,0 +1,12 @@
+fastapi[standard]
+uvicorn[standard]
+sqlmodel
+asyncpg
+psycopg[binary,pool]
+pydantic-settings
+bcrypt
+pyjwt
+httpx
+langgraph
+langgraph-checkpoint-postgres
+langchain-google-genai>=4.0.0
